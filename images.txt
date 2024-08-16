@@ -1,6 +1,3 @@
-nginx
-apache/doris:build-env-for-2.0-no-avx2
-hello-world
-apache/doris:doris-all-in-one-2.1.0
 openjdk:8u342-jdk
 mysql:8.0.39-debian
+redis:7.4.0
