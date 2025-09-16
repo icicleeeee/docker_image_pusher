@@ -1,1 +1,2 @@
-apache/hadoop:3.3.6
+bde2020/hadoop-namenode:3.2.1-hadoop3.2.1-java8
+bde2020/hadoop-datanode:3.2.1-hadoop3.2.1-java8
