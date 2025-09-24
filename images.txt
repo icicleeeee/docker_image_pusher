@@ -1,2 +1,2 @@
-bde2020/hadoop-datanode:1.2.1-hadoop2.8-java8
-bde2020/hadoop-namenode:1.2.1-hadoop2.8-java8
+apache/doris:be-3.1.0
+apache/doris:fe-3.1.0
